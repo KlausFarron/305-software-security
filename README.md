@@ -23,7 +23,7 @@ To ensure the application remained functional and secure after refactoring, I ve
 
 6.) What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 
-This project introduced me to several tools, including OWASP Dependency-Check, Java Keytool for certificate generation, secure cryptographic standards, and structured code review techniques. These tools and practices will be highly useful in future development tasks involving secure software development.
+This project introduced me to several tools, including OWASP Dependency-Check, Java Keytool for certificate generation, secure cryptographic standards, and structured code review techniques. These tools and practices will be useful in future development tasks involving secure software development.
 
 7.) Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
