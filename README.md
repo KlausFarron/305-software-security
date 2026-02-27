@@ -7,7 +7,7 @@ The client for this project was Artemis Financial, a financial services company 
 
 2.) What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
 
-One area in which I performed well was identifying software security vulnerabilities using automated analysis tools without disrupting existing functionality. Secure coding is important because it reduces the risk of data breaches, financial loss, and reputational damage from failing to secure the application. Strong software security adds long-term value to a company by protecting trust in the business, ensuring regulatory compliance, and supporting stable, reliable operations.
+One area in which I performed well was identifying software security vulnerabilities using automated analysis tools without disrupting existing functionality. Secure coding is important because it reduces the risk of data breaches, financial loss, and reputational damage from failing to secure the application. Strong software security adds long-term value to a company by protecting trust in the business, ensuring regulatory compliance, and supporting reliable operations.
 
 3.) Which part of the vulnerability assessment was challenging or helpful to you?
 
