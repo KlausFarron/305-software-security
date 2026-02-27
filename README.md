@@ -11,11 +11,11 @@ One area in which I performed well was identifying software security vulnerabili
 
 3.) Which part of the vulnerability assessment was challenging or helpful to you?
 
-The most challenging part of the vulnerability assessment was interpreting vulnerability reports and determining which findings were legitimate risks versus false positives. This was also one of the most helpful aspects of the project because it taught me how to analyze security data and make informed decisions on how to limit risks.
+The most challenging part of the vulnerability assessment was interpreting vulnerability reports as well as figuring out why I was not getting the report inidiatly before determining which findings were legitimate risks versus false positives. This was also one of the most helpful aspects of the project because it taught me how to analyze security data and make informed decisions on how to limit risks.
 
 4.) How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
 
-I increased layers of security by implementing things such as encrypted communication using HTTPS, applying modern cryptographic standards, and evaluating third-party dependencies for known vulnerabilities. In the future, I would use tools such as OWASP Dependency-Check, static code analysis tools, and industry frameworks like NIST guidelines to assess vulnerabilities and select appropriate mitigation strategies.
+I increased layers of security by implementing things such as encrypted communication using HTTPS, applying modern cryptographic standards, and evaluating third-party dependencies for known vulnerabilities. In the future, I would use tools such as OWASP Dependency-Check and static code analysis tools to assess vulnerabilities and select appropriate mitigation strategies.
 
 5.) How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
