@@ -3,7 +3,7 @@ How to develop secure code that complies with security testing protocols.
 
 1.)Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
 
-The client for this project was Artemis Financial, a financial services company that required improved security for its software application. The company was concerned about protecting sensitive customer and financial data during transmission and storage. The primary issue that needed to be addressed was identifying existing security vulnerabilities and implementing secure coding practices.
+The client for this project was Artemis Financial, a financial services company that required improved security for its software application. The company was concerned about protecting sensitive data during transmission and storage. The primary issue that needed to be addressed was identifying existing security vulnerabilities and implementing secure coding practices.
 
 2.) What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
 
